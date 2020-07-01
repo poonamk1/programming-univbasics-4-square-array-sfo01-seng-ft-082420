@@ -5,7 +5,7 @@ def square_array (numbers)
     number = numbers[counter]
     counter += 1 
    new_array = [number**2]
-   return
+   return new_array
   end
 end
 
