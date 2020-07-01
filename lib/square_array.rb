@@ -4,7 +4,7 @@ def square_array (numbers)
  while counter < numbers.length
     number = numbers[counter]
     counter += 1 
-   new_array = [number**2]
+   new_array = [number * * 2]
    
   end
 end
